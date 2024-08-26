@@ -178,7 +178,7 @@ const Footer = () => {
     // </div>
     <div className="bg-richblack-800 h-51" >
   <div className="text-white text-3xl">
-    Built by Mohniish Gurnani
+    Built by Devendra Gurnani
   </div>
     </div>
   );
